@@ -1,0 +1,3 @@
+# Вариант «списковое включение» намеренно показывает этот синтаксис;
+# HLint предложил бы заменить его на map.
+- ignore: {name: Use map, within: PowerDigitSum.digitSumComprehension}
